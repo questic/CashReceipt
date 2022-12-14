@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle
+build
+buildout
+out
+
+# Other
+.DS_Store
+cmake-build-debug
+dist
+jacoco.exec
+tmp
